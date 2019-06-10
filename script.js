@@ -24,8 +24,8 @@ function draw() {
 
 	scale(4);
 
-	rotateY(-(((mouseX-halfWidth)/halfWidth)*(PI/2))/70);
-	rotateX(-(((halfHeight-mouseY)/halfHeight)*(PI/2))/70);
+	rotateY((((mouseX-halfWidth)/halfWidth)*(PI/2))/70);
+	rotateX((((halfHeight-mouseY)/halfHeight)*(PI/2))/70);
 
 	rotateX(16*PI/20);
 	rotateY(PI/6);
