@@ -1,9 +1,5 @@
-# 
-p5js 3D lights and models test
-
-
 ## p5js World Ita
-##### A patriotic G-lobe by G-flex
+##### A patriotic G-lobe by G-flex testing lights and models
 ###### Experimenting with primitives of 3D
 
 ***
