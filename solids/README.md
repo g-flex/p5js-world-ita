@@ -4,7 +4,7 @@
 
 ***
 
-**Live sketch** [available here](https://editor.p5js.org/g-flex/present/EsKSUbD9b)
+**Live sketch** [available here](https://editor.p5js.org/g-flex/present/EsKSUbD9b){:target="_blank"}
 
 **Sample**:
 
